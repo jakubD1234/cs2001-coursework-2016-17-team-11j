@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "784762738033",
+    "firebase_url": "https://isa-kheir.firebaseio.com",
+    "project_id": "isa-kheir",
+    "storage_bucket": "isa-kheir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784762738033:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784762738033-boepgms2nq97f5uilm0flv7m4ijd0pks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64PiZSFV_nJPgsS-E_-F8OLcjZqGmbzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
